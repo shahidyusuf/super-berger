@@ -1,0 +1,29 @@
+body {
+    /* background-image: url(images/bigburger.jpg);
+    background-repeat: repeat-y;
+    background-position: top right;
+    background-attachment: fixed; */
+    background: #26232a url(images/bigburger.jpg) no-repeat right top;
+    background-color: #26232a;
+
+}
+h3 {
+    font-size: 3em;
+    color: #e39a53;
+    /* background-color: antiquewhite; */
+    margin: 10px;
+    /* display: inline-block; */
+}
+.free {
+    background-color: orange;
+    font-size: large;
+    color: white;
+}
+h3 span {
+    color: darkgreen;
+}
+.logo {
+    margin-bottom: -118px;
+    margin-left: 1281px;
+    width: 30;
+}
