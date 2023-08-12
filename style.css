@@ -13,6 +13,10 @@ h3 {
     /* background-color: antiquewhite; */
     margin: 10px;
     /* display: inline-block; */
+    /* box-shadow: 15px 10px 10px orange; */
+}
+.hover :hover {
+    color: white;
 }
 .free {
     background-color: orange;
@@ -26,4 +30,7 @@ h3 span {
     margin-bottom: -118px;
     margin-left: 1281px;
     width: 30;
+}
+a {
+    text-decoration: none;
 }
